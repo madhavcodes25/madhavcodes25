@@ -26,15 +26,11 @@ I am a first-year **B.Tech student in Mathematics and Computing** at **SVNIT, Su
 ### 📊 Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavcodes25&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes25&theme=radical&hide_border=true" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavcodes25&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+  <br>
 
-<br>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=heatmap" alt="leetcode stats" />
+  <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
