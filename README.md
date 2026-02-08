@@ -25,7 +25,7 @@ I am a first-year **B.Tech student in Mathematics and Computing** at **SVNIT, Su
 
 ### 📊 Coding Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhavcodes25&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes25&theme=radical&hide_border=true)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=heatmap)
 
