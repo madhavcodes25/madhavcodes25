@@ -6,7 +6,7 @@ I am a first-year **B.Tech student in Mathematics and Computing** at **SVNIT, Su
 
 - 🔭 I’m currently working on an **IPL Data Analytics Dashboard** using Python & Pandas.
 - 🚀 **SIH 2025:** Shortlisted for Internal Round.
-- 🧠 **Competitive Programming:** Max Rating **1455** on LeetCode | **1214** on CodeChef.
+- 🧠 **Competitive Programming:** Max Rating **1478** on LeetCode | **1320** on CodeChef.
 - 📫 How to reach me: **madhav.daluka25@gmail.com**
 
 ---
