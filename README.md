@@ -1,6 +1,7 @@
 # Hi there, I'm Madhav Daluka! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Maths+%26+Computing+Undergrad+%40+SVNIT;Competitive+Programmer+(C%2B%2B);Building+Data+%26+AI+Solutions;Learning+MERN+Stack)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Maths+%26+Computing+Undergrad+%40+SVNIT;Competitive+Programmer+(C%2B%2B);Building+Data+%26+AI+Solutions;Learning+MERN+Stack)
+
 
 I am a first-year **B.Tech student in Mathematics and Computing** at **SVNIT, Surat**. I love solving algorithmic problems and building data-driven applications.
 
