@@ -5,7 +5,7 @@
 
 I am a first-year **B.Tech student in Mathematics and Computing** at **SVNIT, Surat**. I love solving algorithmic problems and building data-driven applications.
 
-- 🔭 I’m currently working on an **IPL Data Analytics Dashboard** using Python & Pandas.
+- 🔭 I’m currently working on an **IPL Moneyball: Data Driven Team Selector** using Python & Pandas.
 - 🚀 **SIH 2025:** Shortlisted for Internal Round.
 - 🧠 **Competitive Programming:** Max Rating **1571** on LeetCode | 2 Star CodeChef.
 - 📫 How to reach me: **madhav.daluka25@gmail.com**
