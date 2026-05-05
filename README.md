@@ -95,7 +95,7 @@ A data-driven decision support tool that acts as an analytical Head Coach to dra
 * **Tech Stack:** Python, PuLP, Streamlit, Pandas, Plotly
 * **Key Features:** Mathematical optimization for maximum fantasy score, dynamic budget tracking, and "Strict Mode" for exact batter/bowler role configurations based on 2025 stats.
 
-### ⚡ [Zenith: Multi-Purpose AI Discord Bot](https://github.com/madhavcodes25/Zenith)
+### ⚡ [Zenith: Multi-Purpose AI Discord Bot](https://github.com/madhavcodes25/ZenithBot)
 A modular, fully cloud-connected Discord application serving as a utility middleware with a persistent RPG economy.
 * **Tech Stack:** Node.js, discord.js (v14), MongoDB Atlas, Google Gemini API
 * **Key Features:** Persistent MongoDB economy (inventory, jobs, gambling), automated dynamic command handler, and natural language processing via Gemini AI.
