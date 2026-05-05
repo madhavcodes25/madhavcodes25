@@ -112,13 +112,27 @@ A modular, fully cloud-connected Discord application serving as a utility middle
 
 ## 📊 Coding Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes25&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=madhavcodes25&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" />
+</p>
 
-  <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</div>
+<p align="center">
+  <a href="https://github.com/madhavcodes25">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/madhavcodes25/">
+    <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&ext=heatmap&hide_border=true" alt="LeetCode Stats" />
+  </a>
+  <a href="https://www.codechef.com/users/madhavcodes25">
+    <img src="https://codechef-readme-stats.onrender.com/madhavcodes25" alt="CodeChef Stats" />
+  </a>
+  <a href="https://codeforces.com/profile/madhavcodes25">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavcodes25&theme=tokyonight&hide_border=true" alt="Codeforces Stats" />
+  </a>
+</p>
 
 ---
 
