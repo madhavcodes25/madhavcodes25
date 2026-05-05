@@ -126,9 +126,6 @@ A modular, fully cloud-connected Discord application serving as a utility middle
   <a href="https://leetcode.com/madhavdaluka/">
     <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&ext=heatmap&hide_border=true" alt="LeetCode Stats" />
   </a>
-  <a href="https://www.codechef.com/users/madhavcodes25">
-    <img src="https://codechef-readme-stats.onrender.com/madhavcodes25" alt="CodeChef Stats" />
-  </a>
   <a href="https://codeforces.com/profile/madhavcodes25">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavcodes25&theme=tokyonight&hide_border=true" alt="Codeforces Stats" />
   </a>
