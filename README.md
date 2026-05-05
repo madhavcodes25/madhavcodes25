@@ -123,7 +123,7 @@ A modular, fully cloud-connected Discord application serving as a utility middle
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/madhavcodes25/">
+  <a href="https://leetcode.com/madhavdaluka/">
     <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&ext=heatmap&hide_border=true" alt="LeetCode Stats" />
   </a>
   <a href="https://www.codechef.com/users/madhavcodes25">
