@@ -42,9 +42,11 @@ class MadhavDaluka {
 
 ## 🎓 Education
 
-| Degree & Specialization | Institution | Timeline | Academic Standing |
-| :--- | :--- | :--- | :--- |
-| **B.Tech in Mathematics & Computing** | Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat | 2025 – 2029 | **9.0 CGPA** |
+| *Degree & Specialization* | *Institution* | *Timeline* | *Academic Standing* |
+| ----- | ----- | ----- | ----- |
+| *B.Tech in Mathematics & Computing* | Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat | 2025 – 2029 | *9.0 CGPA* |
+| *Class 12th* | GD Goenka Public School | 2024-2025 | *89.4%* |
+| *Class 10th* | GD Goenka Public School | 2022-2023 | *95.8%* |
 
 ---
 
@@ -139,10 +141,3 @@ A modular, fully cloud-connected Discord application serving as a utility middle
 <a href="https://leetcode.com/MadhavDaluka" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="madhav daluka" /></a>
 </div>
 
-<div align="center">
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-</p>
-
-</div>
