@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Madhav%20Daluka&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20SVNIT%20Surat&descAlignY=58&descSize=16" width="100%"/>
+<h1 align="center">Hi, I'm Madhav Daluka <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MadhavDaluka/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MadhavDaluka/)
@@ -142,6 +141,8 @@ A modular, fully cloud-connected Discord application serving as a utility middle
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+</p>
 
 </div>
