@@ -41,6 +41,14 @@ class MadhavDaluka {
 
 ---
 
+## 🎓 Education
+
+| Degree & Specialization | Institution | Timeline | Academic Standing |
+| :--- | :--- | :--- | :--- |
+| **B.Tech in Mathematics & Computing** | Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat | 2025 – 2029 | **9.0 CGPA** |
+
+---
+
 ## 🛠️ Technical Arsenal
 
 <p align="center">
