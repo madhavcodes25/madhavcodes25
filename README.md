@@ -102,7 +102,7 @@ A modular, fully cloud-connected Discord application serving as a utility middle
 
 ---
 
-### 📊 Coding Stats
+## 📊 Coding Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes25&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -114,7 +114,7 @@ A modular, fully cloud-connected Discord application serving as a utility middle
 
 ---
 
-### 🔗 **Connect with Me**
+## 🔗 **Connect with Me**
 
 <div align="center">
 <a href="https://linkedin.com/in/madhavdaluka" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="madhav daluka" /></a>
