@@ -1,38 +1,104 @@
-# Hi there, I'm Madhav Daluka! 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Madhav%20Daluka&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20SVNIT%20Surat&descAlignY=58&descSize=16" width="100%"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MadhavDaluka/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MadhavDaluka/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.daluka25@gmail.com)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Maths+%26+Computing+Undergrad+%40+SVNIT;Competitive+Programmer+(C%2B%2B);Building+Data+%26+AI+Solutions;Learning+MERN+Stack)
 
-
-I am a first-year **B.Tech student in Mathematics and Computing** at **SVNIT, Surat**. I love solving algorithmic problems and building data-driven applications.
-
-- 🚀 **SIH 2025:** Shortlisted for Internal Round.
-- 🧠 **Competitive Programming:** Max Rating **1628** on LeetCode | 2 Star CodeChef.
-- 📫 How to reach me: **madhav.daluka25@gmail.com**
+</div>
 
 ---
 
-### 🛠️ **Tech Stack**
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+## 🧠 About Me
+
+```javascript
+class MadhavDaluka {
+  role         = "B.Tech Mathematics & Computing Student"
+  location     = "SVNIT Surat, Gujarat, India 🇮🇳"
+  philosophy   = "Sitting at the intersection of abstract mathematics and software engineering."
   
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  expertise    = [
+    "💻 Competitive Programming", 
+    "🌐 Web Development", 
+    "📊 Data Science & AI"
+  ]
   
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  achievements = [
+    "🏆 GirlScript Summer of Code (GSSoC) 2026", 
+    "⭐ 2-Star CodeChef | 1628 LeetCode Rating", 
+    "🚀 SIH 2025 Shortlisted",
+    "🥇 Top 12 at CodeCraft (MINDBEND SVNIT)"
+  ]
   
-  <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PuLP-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
-  
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/RegEx-000000?style=for-the-badge" />
+  certifications = [
+    "📈 Kaggle: Pandas, Data Visualization & Intro to ML"
+  ]
+}
+```
+
+---
+
+## 🛠️ Technical Arsenal
+
+<p align="center">
+  <strong>Core Languages</strong><br><br>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
+
+<p align="center">
+  <strong>Frontend & Web</strong><br><br>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="center">
+  <strong>Backend & Database</strong><br><br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<p align="center">
+  <strong>Data Science & AI</strong><br><br>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-%234470B1.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/PuLP-%23007acc.svg?style=for-the-badge&logo=python&logoColor=white" alt="PuLP" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+</p>
+
+<p align="center">
+  <strong>Tools & Platforms</strong><br><br>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/RegEx-%23000000.svg?style=for-the-badge&logo=regex&logoColor=white" alt="RegEx" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏏 [IPL Moneyball: Mathematical Team Optimization](https://github.com/madhavcodes25/IPL-Moneyball)
+A data-driven decision support tool that acts as an analytical Head Coach to draft the ultimate playing XI using constrained knapsack problem solving.
+* **Tech Stack:** Python, PuLP, Streamlit, Pandas, Plotly
+* **Key Features:** Mathematical optimization for maximum fantasy score, dynamic budget tracking, and "Strict Mode" for exact batter/bowler role configurations based on 2025 stats.
+
+### ⚡ [Zenith: Multi-Purpose AI Discord Bot](https://github.com/madhavcodes25/Zenith)
+A modular, fully cloud-connected Discord application serving as a utility middleware with a persistent RPG economy.
+* **Tech Stack:** Node.js, discord.js (v14), MongoDB Atlas, Google Gemini API
+* **Key Features:** Persistent MongoDB economy (inventory, jobs, gambling), automated dynamic command handler, and natural language processing via Gemini AI.
 
 ---
 
@@ -49,7 +115,14 @@ I am a first-year **B.Tech student in Mathematics and Computing** at **SVNIT, Su
 ---
 
 ### 🔗 **Connect with Me**
-<p align="left">
+
+<div align="center">
 <a href="https://linkedin.com/in/madhavdaluka" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="madhav daluka" /></a>
 <a href="https://leetcode.com/MadhavDaluka" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="madhav daluka" /></a>
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
