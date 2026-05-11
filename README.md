@@ -1,13 +1,20 @@
 <div align="center">
-<h1 align="center">Hi, I'm Madhav Daluka <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madhav%20Daluka&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Maths+%26+Computing+Undergrad+%40+SVNIT;Competitive+Programmer+(C%2B%2B);Building+Data+%26+AI+Solutions;Learning+MERN+Stack)
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MadhavDaluka/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MadhavDaluka/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.daluka25@gmail.com)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Maths+%26+Computing+Undergrad+%40+SVNIT;Competitive+Programmer+(C%2B%2B);Building+Data+%26+AI+Solutions;Learning+MERN+Stack)
-
+  <img src="https://komarev.com/ghpvc/?username=madhavcodes25&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+  
 </div>
+
+<br/>
 
 ---
 
@@ -140,4 +147,6 @@ A modular, fully cloud-connected Discord application serving as a utility middle
 <a href="https://linkedin.com/in/madhavdaluka" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="madhav daluka" /></a>
 <a href="https://leetcode.com/MadhavDaluka" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="madhav daluka" /></a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
