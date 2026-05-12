@@ -40,7 +40,8 @@ class MadhavDaluka {
   ]
   
   certifications = [
-    "📈 Kaggle: Pandas, Data Visualization & Intro to ML"
+    "📈 Kaggle: Pandas, Data Visualization, Intro to ML, Intermediate Machine Learning & Intro to SQL",
+    "☁️ Cloudinary: Introduction to Media IQ for Developers"
   ]
 }
 ```
