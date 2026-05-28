@@ -123,7 +123,7 @@ A modular, fully cloud-connected Discord application serving as a utility middle
 ## 📊 Coding Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhavcodes25&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=madhavcodes25&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
