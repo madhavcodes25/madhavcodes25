@@ -41,6 +41,7 @@ class MadhavDaluka {
   ]
   
   certifications = [
+    "🎓 Harvard CS50x: Introduction to Computer Science",
     "📈 Kaggle: Pandas, Data Visualization, Intro to ML, Intermediate Machine Learning & Intro to SQL",
     "☁️ Cloudinary: Introduction to Media IQ for Developers"
   ]
