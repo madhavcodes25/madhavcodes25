@@ -119,6 +119,11 @@ A modular, fully cloud-connected Discord application serving as a utility middle
 * **Tech Stack:** Node.js, discord.js (v14), MongoDB Atlas, Google Gemini API
 * **Key Features:** Persistent MongoDB economy (inventory, jobs, gambling), automated dynamic command handler, and natural language processing via Gemini AI.
 
+### 🚆 [Transit Matchmaker: Student Travel Companion](https://github.com/madhavcodes25/transit-matchmaker)
+A full-stack web application designed for SVNIT students to coordinate shared travel to transit hubs (railway stations/airports).
+* **Tech Stack:** Python, Flask, SQLite, Bootstrap, JavaScript
+* **Key Features:** User authentication with password hashing, dashboard for travel planning, and a custom SQL-based matching algorithm to pair students by destination and date.
+  
 ---
 
 ## 📊 Coding Stats
