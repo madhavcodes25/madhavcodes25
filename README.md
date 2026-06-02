@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Maths+%26+Computing+Undergrad+%40+SVNIT;Competitive+Programmer+(C%2B%2B);Building+Data+%26+AI+Solutions;Learning+MERN+Stack)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&center=true&vCenter=true&lines=Maths+%26+Computing+Undergrad+%40+SVNIT;Competitive+Programmer+(C%2B%2B);Building+Data+%26+AI+Solutions;Learning+MERN+Stack" alt="Typing SVG" />
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MadhavDaluka/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MadhavDaluka/)
