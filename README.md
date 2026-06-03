@@ -126,26 +126,27 @@ A full-stack web application designed for SVNIT students to coordinate shared tr
   
 ---
 
-## 📊 Coding Stats
+## 📊 GitHub Trophies & Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=madhavcodes25&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=madhavcodes25&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/madhavcodes25">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://leetcode.com/madhavdaluka/">
-    <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&ext=heatmap&hide_border=true" alt="LeetCode Stats" />
-  </a>
-  <a href="https://codeforces.com/profile/madhavcodes25">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavcodes25&theme=tokyonight&hide_border=true" alt="Codeforces Stats" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavcodes25&theme=tokyonight&hide_border=true" height="160" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes25&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=activity" height="160" alt="LeetCode Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavcodes25&theme=tokyonight" height="160" alt="Codeforces Stats" />
+</div>
 
 ---
 
