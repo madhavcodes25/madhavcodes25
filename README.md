@@ -144,8 +144,9 @@ A full-stack web application designed for SVNIT students to coordinate shared tr
 ## 🏆 Coding Profiles
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=activity" height="160" alt="LeetCode Stats" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavcodes25&theme=tokyonight" height="160" alt="Codeforces Stats" />
+  <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=activity" height="220" alt="LeetCode Stats" />
+  
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavcodes25&theme=tokyonight" height="220" alt="Codeforces Stats" />
 </div>
 
 ---
