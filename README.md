@@ -53,7 +53,7 @@ class MadhavDaluka {
 
 | *Degree & Specialization* | *Institution* | *Timeline* | *Academic Standing* |
 | ----- | ----- | ----- | ----- |
-| *B.Tech in Mathematics & Computing* | Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat | 2025 – 2029 | *9.0 CGPA* |
+| *B.Tech in Mathematics & Computing* | Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat | 2025 – 2029 | *8.60 CGPA* |
 | *Class 12th* | GD Goenka Public School | 2024-2025 | *89.4%* |
 | *Class 10th* | GD Goenka Public School | 2022-2023 | *95.8%* |
 
