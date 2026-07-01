@@ -34,7 +34,7 @@ class MadhavDaluka {
   
   achievements = [
     "🏆 GirlScript Summer of Code 2026 (Top 1%)", 
-    "⭐ 2-Star CodeChef | 1644 LeetCode Rating", 
+    "⭐ 2-Star CodeChef | 1662 LeetCode Rating", 
     "🥇 Top 12 at CodeCraft (MINDBEND SVNIT)",
     "🎯 Finalist at MetaCode (IIT Kharagpur)"
   ]
