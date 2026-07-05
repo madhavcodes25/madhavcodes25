@@ -42,7 +42,8 @@ class MadhavDaluka {
   certifications = [
     "🎓 Harvard CS50x: Introduction to Computer Science",
     "📈 Kaggle: Pandas, Data Visualization, Intro to ML, Intermediate Machine Learning, Intro to SQL & Advanced SQL",
-    "☁️ Cloudinary: Introduction to Media IQ for Developers"
+    "☁️ Cloudinary: Introduction to Media IQ for Developers",
+    "🏢 Celonis: Celonis Foundation"
   ]
 }
 ```
@@ -132,7 +133,9 @@ A full-stack web application designed for SVNIT students to coordinate shared tr
 ## 📊 GitHub Trophies & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=madhavcodes25&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://gh-trophy.cdnsoft.net/?username=madhavcodes25&theme=dracula&margin-w=15" alt="madhavcodes25 trophies" />
+  </a>
 </div>
 
 <br>
