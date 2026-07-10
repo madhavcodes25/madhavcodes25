@@ -43,7 +43,7 @@ class MadhavDaluka {
     "🎓 Harvard CS50x: Introduction to Computer Science",
     "📈 Kaggle: Pandas, Data Visualization, Intro to ML, Intermediate Machine Learning, Intro to SQL & Advanced SQL",
     "☁️ Cloudinary: Introduction to Media IQ for Developers",
-    "🏢 Celonis: Celonis Foundation"
+    "🏢 Celonis: Celonis Foundation, Process Mining Fundamentals"
   ]
 }
 ```
