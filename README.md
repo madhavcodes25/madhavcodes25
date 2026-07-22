@@ -23,8 +23,7 @@
 ```javascript
 class MadhavDaluka {
   role         = "B.Tech Mathematics & Computing Student"
-  location     = "SVNIT Surat, Gujarat, India 🇮🇳"
-  philosophy   = "Sitting at the intersection of abstract mathematics and software engineering."
+  education     = "SVNIT Surat, Gujarat, India 🇮🇳"
   
   expertise    = [
     "💻 Competitive Programming", 
