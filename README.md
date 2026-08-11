@@ -23,17 +23,13 @@
 ```javascript
 class MadhavDaluka {
   role         = "B.Tech Mathematics & Computing Student"
-  education     = "SVNIT Surat, Gujarat, India 🇮🇳"
-  
-  expertise    = [
-    "💻 Competitive Programming", 
-    "🌐 Web Development", 
-    "📊 Data Science & AI"
-  ]
+  education    = "SVNIT Surat, Gujarat, India 🇮🇳"
+  expertise    = ["💻 Competitive Programming", "🌐 Web Development", "📊 Data Science & AI"]
   
   achievements = [
-    "🏆 GirlScript Summer of Code 2026 (Top 1%)", 
-    "⭐ 2-Star CodeChef | 1710 LeetCode Rating", 
+    "🏆 Winner at Capital Odyssey 2026 (SVNIT)",
+    "🏆 GirlScript Summer of Code 2026 (Top 1%)",
+    "⭐ 2-Star CodeChef | 1710 LeetCode Rating",
     "🥇 Top 12 at CodeCraft (MINDBEND SVNIT)",
     "🎯 Finalist at MetaCode (IIT Kharagpur)",
     "🏅 Rank 5 at ACM Summer Challenge (SVNIT)"
