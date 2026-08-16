@@ -35,12 +35,13 @@ class MadhavDaluka {
     "🏅 Rank 5 at ACM Summer Challenge (SVNIT)"
   ]
   
-  certifications = [
-    "🎓 Harvard CS50x: Introduction to Computer Science",
-    "📈 Kaggle: Pandas, Data Visualization, Intro to ML, Intermediate Machine Learning, Intro to SQL & Advanced SQL",
-    "☁️ Cloudinary: Introduction to Media IQ for Developers",
-    "🏢 Celonis: Celonis Foundation, Process Mining Fundamentals"
-  ]
+certifications = [
+  "📊 Certificate of Excellence (Top 10%ile): Summer Analytics 2026 - Consulting & Analytics Club, IIT Guwahati",
+  "🎓 Harvard CS50x: Introduction to Computer Science",
+  "📈 Kaggle: Pandas, Data Visualization, Intro to ML, Intermediate Machine Learning, Intro to SQL & Advanced SQL",
+  "☁️ Cloudinary: Introduction to Media IQ for Developers",
+  "🏢 Celonis: Celonis Foundation, Process Mining Fundamentals"
+]
 }
 ```
 
