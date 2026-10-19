@@ -134,7 +134,7 @@ A full-stack web application designed for SVNIT students to coordinate shared tr
 
 <p align="center">
   <a href="https://github.com/madhavcodes25">
-    <img src="https://github-profile-trophy.vercel.app/?username=madhavcodes25&theme=onedark&column=6&margin-w=15&margin-h=15" alt="madhavcodes25 GitHub Trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavcodes25&theme=tokyonight" alt="GitHub Profile Summary" />
   </a>
 </p>
 
