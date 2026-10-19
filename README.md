@@ -77,11 +77,13 @@ certifications = [
 <p align="center">
   <strong>Backend & Database</strong><br><br>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/jinja-%23B41717.svg?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
   <img src="https://img.shields.io/badge/discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
@@ -93,6 +95,7 @@ certifications = [
   <img src="https://img.shields.io/badge/Seaborn-%234470B1.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/PuLP-%23007acc.svg?style=for-the-badge&logo=python&logoColor=white" alt="PuLP" />
+  <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=python&logoColor=white" alt="SymPy" />
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
@@ -129,18 +132,23 @@ A full-stack web application designed for SVNIT students to coordinate shared tr
 
 ## 📊 GitHub Trophies & Stats
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://gh-trophy.cdnsoft.net/?username=madhavcodes25&theme=dracula&margin-w=15" alt="madhavcodes25 trophies" />
+<p align="center">
+  <a href="https://github.com/madhavcodes25">
+    <img src="https://github-profile-trophy.vercel.app/?username=madhavcodes25&theme=onedark&column=6&margin-w=15&margin-h=15" alt="madhavcodes25 GitHub Trophies" />
   </a>
-</div>
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavcodes25&theme=tokyonight&hide_border=true" height="160" alt="Contribution Graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes25&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/madhavcodes25">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br />
+  <a href="https://github.com/madhavcodes25">
+    <img src="https://github-readme-stats.vercel.app/api?username=madhavcodes25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
 
 ---
 
