@@ -25,23 +25,21 @@ class MadhavDaluka {
   role         = "B.Tech Mathematics & Computing Student"
   education    = "SVNIT Surat, Gujarat, India 🇮🇳"
   expertise    = ["💻 Competitive Programming", "🌐 Web Development", "📊 Data Science & AI"]
-  
   achievements = [
     "🏆 Winner at Capital Odyssey 2026 (SVNIT)",
-    "🏆 GirlScript Summer of Code 2026 (Top 1%)",
-    "⭐ 2-Star CodeChef | 1886 LeetCode Rating",
+    "🏆 GirlScript Summer of Code 2026 (Top 50 Contributor)",
+    "⚔️ LeetCode Knight (Max Rating 1923)",
     "🥇 Top 12 at CodeCraft (MINDBEND SVNIT)",
     "🎯 Finalist at MetaCode (IIT Kharagpur)",
     "🏅 Rank 5 at ACM Summer Challenge (SVNIT)"
   ]
-  
-certifications = [
-  "📊 Certificate of Excellence (Top 10%ile): Summer Analytics 2026 - Consulting & Analytics Club, IIT Guwahati",
-  "🎓 Harvard CS50x: Introduction to Computer Science",
-  "📈 Kaggle: Pandas, Data Visualization, Intro to ML, Intermediate Machine Learning, Intro to SQL & Advanced SQL",
-  "☁️ Cloudinary: Introduction to Media IQ for Developers",
-  "🏢 Celonis: Celonis Foundation, Process Mining Fundamentals"
-]
+  certifications = [
+    "📊 Certificate of Excellence (Top 10%ile): Summer Analytics 2026 - Consulting & Analytics Club, IIT Guwahati",
+    "🎓 Harvard CS50x: Introduction to Computer Science",
+    "📈 Kaggle: Pandas, Data Visualization, Intro to ML, Intermediate Machine Learning, Intro to SQL & Advanced SQL",
+    "☁️ Cloudinary: Introduction to Media IQ for Developers",
+    "🏢 Celonis: Celonis Foundation, Process Mining Fundamentals"
+  ]
 }
 ```
 
@@ -68,21 +66,11 @@ certifications = [
 </p>
 
 <p align="center">
-  <strong>Frontend & Web</strong><br><br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-<p align="center">
   <strong>Backend & Database</strong><br><br>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/jinja-%23B41717.svg?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
-  <img src="https://img.shields.io/badge/discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
@@ -101,32 +89,43 @@ certifications = [
 </p>
 
 <p align="center">
-  <strong>Tools & Platforms</strong><br><br>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <strong>Web & Systems Tools</strong><br><br>
+  <img src="https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-    <img src="https://img.shields.io/badge/RegEx-%23000000.svg?style=for-the-badge&logo=regex&logoColor=white" alt="RegEx" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jinja-%23B41717.svg?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### ⚡ [Mini-Redis: In-Memory Key-Value Store](https://github.com/madhavcodes25/Mini-Redis)
+A high-performance in-memory key-value storage engine built from scratch with custom data structures, key expiry mechanisms, and zero-sleep automated testing.
+* **Tech Stack:** C++17, CMake, Catch2
+* **Key Highlights:**
+  * Custom storage engine featuring a separate-chaining hash table, min-heap key expiry (lazy & periodic cleanup), and $O(1)$ LRU eviction using a doubly-linked list.
+  * Implemented Redis-style command layer (`SET`, `GET`, `EXPIRE`, `TTL`, etc.) with 8 automated unit tests using a custom fake clock for deterministic TTL validation.
+  * Benchmarked performance on 1M keys against `std::unordered_map`, reaching within 9% insert throughput (6.57M vs 7.16M ops/s) and lookup speeds within 2%.
+  * Analyzed LRU cache efficiency under an 80/20 power-law workload, achieving a 31% hit rate at 10% capacity (vs. 10% uniform) and reaching 72%–98% of optimal cache efficiency.
+
 ### 🏏 [IPL Moneyball: Mathematical Team Optimization](https://github.com/madhavcodes25/IPL-Moneyball)
 A data-driven decision support tool that acts as an analytical Head Coach to draft the ultimate playing XI using constrained knapsack problem solving.
 * **Tech Stack:** Python, PuLP, Streamlit, Pandas, Plotly
-* **Key Features:** Mathematical optimization for maximum fantasy score, dynamic budget tracking, and "Strict Mode" for exact batter/bowler role configurations based on 2025 stats.
+* **Key Highlights:**
+  * Engineered a linear programming model to solve a constrained knapsack problem, maximizing team fantasy points based on 2025 player stats.
+  * Built an interactive Streamlit and Plotly dashboard for dynamic budget tracking and role-based squad constraint enforcement.
 
-### ⚡ [Zenith: Multi-Purpose AI Discord Bot](https://github.com/madhavcodes25/ZenithBot)
-A modular, fully cloud-connected Discord application serving as a utility middleware with a persistent RPG economy.
-* **Tech Stack:** Node.js, discord.js (v14), MongoDB Atlas, Google Gemini API
-* **Key Features:** Persistent MongoDB economy (inventory, jobs, gambling), automated dynamic command handler, and natural language processing via Gemini AI.
-
-### 🚆 [Transit Matchmaker: Student Travel Companion](https://github.com/madhavcodes25/transit-matchmaker)
-A full-stack web application designed for SVNIT students to coordinate shared travel to transit hubs (railway stations/airports).
-* **Tech Stack:** Python, Flask, SQLite, Bootstrap, JavaScript
-* **Key Features:** User authentication with password hashing, dashboard for travel planning, and a custom SQL-based matching algorithm to pair students by destination and date.
+### 🤖 [Zenith: Multi-Purpose AI Discord Bot](https://github.com/madhavcodes25/ZenithBot)
+A modular, database-driven Discord application featuring dynamic state management and integrated natural language AI.
+* **Tech Stack:** Node.js, Discord.js v14, Gemini API, MongoDB Atlas
+* **Key Highlights:**
+  * Built a persistent RPG economy system (inventory, jobs, gambling) utilizing MongoDB Atlas and Mongoose for dynamic state persistence.
+  * Integrated asynchronous REST APIs, including Google's Gemini AI for natural language processing and PokéAPI for live data fetching.
   
 ---
 
