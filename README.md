@@ -29,7 +29,7 @@ class MadhavDaluka {
     "🏆 Winner at Capital Odyssey 2026 (SVNIT)",
     "🏆 GirlScript Summer of Code 2026 (Top 50 Contributor)",
     "⚔️ LeetCode Knight (Max Rating 1923)",
-    "🥇 Top 12 at CodeCraft (MINDBEND SVNIT)",
+    "🥇 Finalist at UNCHARTED Hackathon (SVNIT x MongoDB)",
     "🎯 Finalist at MetaCode (IIT Kharagpur)",
     "🏅 Rank 5 at ACM Summer Challenge (SVNIT)"
   ]
