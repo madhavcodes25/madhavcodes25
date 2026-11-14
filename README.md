@@ -118,7 +118,7 @@ A modular, database-driven Discord application featuring dynamic state managemen
   
 ---
 
-## 📊 GitHub Trophies & Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/madhavcodes25">
