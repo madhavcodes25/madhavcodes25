@@ -173,3 +173,9 @@ A modular, database-driven Discord application featuring dynamic state managemen
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
