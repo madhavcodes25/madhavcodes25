@@ -1,22 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Madhav%20Daluka&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&center=true&vCenter=true&lines=Maths+%26+Computing+Undergrad+%40+SVNIT;Competitive+Programmer+(C%2B%2B);Building+Data+%26+AI+Solutions;Learning+MERN+Stack" alt="Typing SVG" />
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MadhavDaluka/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MadhavDaluka/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.daluka25@gmail.com)
-
-  <img src="https://komarev.com/ghpvc/?username=madhavcodes25&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-  
-</div>
-
-<br/>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
 
 ## 🧠 About Me
 
@@ -172,10 +158,3 @@ A modular, database-driven Discord application featuring dynamic state managemen
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/light.svg">
-  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/dark.svg" width="100%">
-</picture>
