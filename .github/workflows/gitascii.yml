@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: gitascii-publication
+  group: gitascii
   cancel-in-progress: true
 
 jobs:
