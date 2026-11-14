@@ -155,10 +155,10 @@ A modular, database-driven Discord application featuring dynamic state managemen
 
 <div align="center">
   <a href="https://leetcode.com/u/MadhavDaluka/">
-    <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=heatmap" height="180" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=heatmap" height="225" alt="LeetCode Stats" />
   </a>
   <a href="https://codeforces.com/profile/madhavcodes25">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavcodes25&theme=tokyonight" height="180" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavcodes25&theme=tokyonight" height="225" alt="Codeforces Stats" />
   </a>
 </div>
 
