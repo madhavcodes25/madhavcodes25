@@ -1,5 +1,4 @@
 {
-  "username": "madhavcodes25",
   "widgets": [
     {
       "widgetId": "asciiprofile-portrait",
@@ -11574,10 +11573,5 @@
     "templateStyle": "ascii_native",
     "transparentBackground": false
   },
-  "templateId": "ascii_native",
-  "profileSlug": "default",
-  "metadata": {
-    "revision": "rev_1794661322963_ahvej",
-    "updatedAt": "2026-11-14T13:02:06.570Z"
-  }
+  "templateId": "ascii_native"
 }
