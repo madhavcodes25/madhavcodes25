@@ -1,14 +1,15 @@
- 
 name: Update GitAscii
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '51 11 * * *'
 
 permissions:
   contents: write
 
 concurrency:
-  group: gitascii
+  group: gitascii-publication
   cancel-in-progress: true
 
 jobs:
