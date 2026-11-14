@@ -4,7 +4,9 @@
   <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/dark.svg" width="100%">
 </picture>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8a2be2&height=2&section=header" width="100%" />
+</p>
 
 ## 🧠 About Me
 
@@ -32,7 +34,9 @@ class MadhavDaluka {
 }
 ```
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8a2be2&height=2&section=header" width="100%" />
+</p>
 
 ## 🎓 Education
 
@@ -42,7 +46,9 @@ class MadhavDaluka {
 | *Class 12th* | GD Goenka Public School | 2024-2025 | *89.4%* |
 | *Class 10th* | GD Goenka Public School | 2022-2023 | *95.8%* |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8a2be2&height=2&section=header" width="100%" />
+</p>
 
 ## 🛠️ Technical Arsenal
 
@@ -89,7 +95,9 @@ class MadhavDaluka {
   <img src="https://img.shields.io/badge/jinja-%23B41717.svg?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8a2be2&height=2&section=header" width="100%" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -118,7 +126,9 @@ A modular, database-driven Discord application featuring dynamic state managemen
   * Built a persistent RPG economy system (inventory, jobs, gambling) utilizing **MongoDB Atlas** and **Mongoose** for dynamic user state management.
   * Integrated multiple asynchronous APIs, including **Google’s Gemini API** for natural language processing, **PokéAPI** for live data, and **Canvas** for dynamic image manipulation.
   
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8a2be2&height=2&section=header" width="100%" />
+</p>
 
 ## 📊 GitHub Statistics
 
@@ -137,17 +147,24 @@ A modular, database-driven Discord application featuring dynamic state managemen
   <br />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8a2be2&height=2&section=header" width="100%" />
+</p>
 
 ## 🏆 Coding Profiles
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=heatmap" height="180" alt="LeetCode Stats" />
-  
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavcodes25&theme=tokyonight" height="180" alt="Codeforces Stats" />
+  <a href="https://leetcode.com/u/MadhavDaluka/">
+    <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=heatmap" height="180" alt="LeetCode Stats" />
+  </a>
+  <a href="https://codeforces.com/profile/madhavcodes25">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavcodes25&theme=tokyonight" height="180" alt="Codeforces Stats" />
+  </a>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8a2be2&height=2&section=header" width="100%" />
+</p>
 
 ## 🔗 **Connect with Me**
 
