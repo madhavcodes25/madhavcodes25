@@ -1,18 +1,19 @@
 {
+  "username": "madhavcodes25",
   "widgets": [
     {
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
       "position": {
-        "x": 48,
-        "y": 40
+        "x": 40,
+        "y": 42
       },
       "size": {
-        "width": 288,
-        "height": 312
+        "width": 296,
+        "height": 320
       },
       "config": {
-        "accentColor": "#ffa657",
+        "accentColor": "#bd93f9",
         "cols": 150,
         "rows": 75,
         "asciiText": [
@@ -11508,11 +11509,11 @@
         "y": 42
       },
       "size": {
-        "width": 456,
-        "height": 312
+        "width": 470,
+        "height": 320
       },
       "config": {
-        "accentColor": "#ffa657",
+        "accentColor": "#bd93f9",
         "staticMode": false,
         "customNow": "B.Tech Maths & Computing @ SVNIT",
         "customAlso": "Knight @ LeetCode",
@@ -11534,66 +11535,49 @@
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 48,
-        "y": 368
+        "x": 36,
+        "y": 378
       },
       "size": {
-        "width": 704,
-        "height": 240
+        "width": 728,
+        "height": 256
       },
       "config": {
-        "accentColor": "#ffa657",
+        "accentColor": "#bd93f9",
         "hideDecorations": false,
         "hideBorder": false,
-        "paletteIndex": 3,
+        "paletteIndex": 1,
         "palette": [
           "#161b22",
-          "#450a0a",
-          "#7f1d1d",
-          "#b91c1c",
-          "#ef4444",
-          "#f87171"
+          "#301934",
+          "#5e2f62",
+          "#8c4f91",
+          "#ba71c0",
+          "#e894ef"
         ]
       },
       "locked": false,
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1794655647542_2"
-    },
-    {
-      "instanceId": "widget_6d972de8-2382-48d0-af5a-fd2c155fd0f4",
-      "widgetId": "divider",
-      "name": "Divider Widget",
-      "position": {
-        "x": 0,
-        "y": 624
-      },
-      "size": {
-        "width": 800,
-        "height": 30
-      },
-      "config": {
-        "showTitle": false,
-        "hideBorder": true,
-        "hideDecorations": true,
-        "animationType": "typewriter",
-        "animationPreviewKey": 8
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4
     }
   ],
   "globalStyles": {
     "backgroundColor": "#0d1117",
     "textColor": "#e6edf3",
-    "accentColor": "#ffa657",
+    "accentColor": "#bd93f9",
     "borderColor": "#30363d",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 32,
     "padding": 64,
     "themeMode": "dark",
-    "templateStyle": "ascii_native"
+    "templateStyle": "ascii_native",
+    "transparentBackground": false
   },
-  "templateId": "ascii_native"
+  "templateId": "ascii_native",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1794661322963_ahvej",
+    "updatedAt": "2026-11-14T13:02:06.570Z"
+  }
 }
