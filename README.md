@@ -3,3 +3,161 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/light.svg">
   <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/madhavcodes25/madhavcodes25/gitascii/profiles/default/dark.svg" width="100%">
 </picture>
+
+---
+
+## 🧠 About Me
+
+```javascript
+class MadhavDaluka {
+  role         = "B.Tech Mathematics & Computing Student"
+  education    = "SVNIT Surat, Gujarat, India 🇮🇳"
+  expertise    = ["💻 Competitive Programming", "🌐 Web Development", "📊 Data Science & AI"]
+  achievements = [
+    "🏆 Winner at Capital Odyssey 2026 (SVNIT)",
+    "🏆 GirlScript Summer of Code 2026 (Top 50 Contributor)",
+    "⚔️ LeetCode Knight (Max Rating 1923)",
+    "🥇 Finalist at UNCHARTED Hackathon (SVNIT x MongoDB)",
+    "🎯 Finalist at MetaCode (IIT Kharagpur)",
+    "🏅 Rank 5 at ACM Summer Challenge (SVNIT)"
+  ]
+  certifications = [
+    "📊 Certificate of Excellence (Top 10%ile): Summer Analytics 2026 - Consulting & Analytics Club, IIT Guwahati",
+    "🎓 Harvard CS50x: Introduction to Computer Science",
+    "📈 Kaggle: Pandas, Data Visualization, Intro to ML, Intermediate Machine Learning, Intro to SQL & Advanced SQL",
+    "☁️ Cloudinary: Introduction to Media IQ for Developers",
+    "🏢 Celonis: Celonis Foundation, Process Mining Fundamentals",
+    "🍃 MongoDB: Building AI Agents with MongoDB"
+  ]
+}
+```
+
+---
+
+## 🎓 Education
+
+| *Degree & Specialization* | *Institution* | *Timeline* | *Academic Standing* |
+| ----- | ----- | ----- | ----- |
+| *B.Tech in Mathematics & Computing* | Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat | 2025 – 2029 | *8.60 CGPA* |
+| *Class 12th* | GD Goenka Public School | 2024-2025 | *89.4%* |
+| *Class 10th* | GD Goenka Public School | 2022-2023 | *95.8%* |
+
+---
+
+## 🛠️ Technical Arsenal
+
+<p align="center">
+  <strong>Core Languages</strong><br><br>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</p>
+
+<p align="center">
+  <strong>Backend & Database</strong><br><br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+</p>
+
+<p align="center">
+  <strong>Data Science & AI</strong><br><br>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-%234470B1.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/PuLP-%23007acc.svg?style=for-the-badge&logo=python&logoColor=white" alt="PuLP" />
+  <img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=python&logoColor=white" alt="SymPy" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+</p>
+
+<p align="center">
+  <strong>Web & Systems Tools</strong><br><br>
+  <img src="https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jinja-%23B41717.svg?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ⚡ [Mini-Redis: In-Memory Key-Value Store](https://github.com/madhavcodes25/Mini-Redis)
+A high-performance in-memory key-value storage engine built from scratch with custom data structures, key expiry mechanisms, and zero-sleep automated testing.
+* **Tech Stack:** C++17, CMake, Catch2
+* **Key Highlights:**
+  * Custom storage engine featuring a separate-chaining hash table, min-heap key expiry (lazy & periodic cleanup), and $O(1)$ LRU eviction using a doubly-linked list.
+  * Implemented Redis-style command layer (`SET`, `GET`, `EXPIRE`, `TTL`, etc.) with 8 automated unit tests using a custom fake clock for deterministic TTL validation.
+  * Benchmarked performance on 1M keys against `std::unordered_map`, reaching within 9% insert throughput (6.57M vs 7.16M ops/s) and lookup speeds within 2%.
+  * Analyzed LRU cache efficiency under an 80/20 power-law workload, achieving a 31% hit rate at 10% capacity (vs. 10% uniform) and reaching 72%–98% of optimal cache efficiency.
+
+### 🏏 [IPL Moneyball: Mathematical Team Optimization](https://github.com/madhavcodes25/IPL-Moneyball)
+A data-driven decision support tool that acts as an analytical Head Coach to draft the ultimate playing XI using constrained knapsack problem solving.
+* **Tech Stack:** Python, PuLP, Streamlit, Pandas, Plotly
+* **Key Highlights:**
+  * Engineered a linear programming model to solve a constrained knapsack problem, maximizing team fantasy points based on 2025 player stats.
+  * Built an interactive Streamlit and Plotly dashboard for dynamic budget tracking and role-based squad constraint enforcement.
+
+### 🤖 [Zenith: Multi-Purpose AI Discord Bot](https://github.com/madhavcodes25/ZenithBot)
+A modular, database-driven Discord application featuring dynamic state management and integrated natural language AI.
+* **Tech Stack:** Node.js, Discord.js v14, Gemini API, MongoDB Atlas
+* **Key Highlights:**
+  * Built a persistent RPG economy system (inventory, jobs, gambling) utilizing MongoDB Atlas and Mongoose for dynamic state persistence.
+  * Integrated asynchronous REST APIs, including Google's Gemini AI for natural language processing and PokéAPI for live data fetching.
+  
+---
+
+## 📊 GitHub Trophies & Stats
+
+<p align="center">
+  <a href="https://github.com/madhavcodes25">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavcodes25&theme=tokyonight" alt="GitHub Profile Summary" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/madhavcodes25">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br />
+  <a href="https://github.com/madhavcodes25">
+    <img src="https://github-readme-stats.vercel.app/api?username=madhavcodes25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/MadhavDaluka?theme=dark&font=Fira%20Code&ext=heatmap" height="180" alt="LeetCode Stats" />
+  
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=madhavcodes25&theme=tokyonight" height="180" alt="Codeforces Stats" />
+</div>
+
+---
+
+## 🔗 **Connect with Me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MadhavDaluka/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MadhavDaluka/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.daluka25@gmail.com)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
