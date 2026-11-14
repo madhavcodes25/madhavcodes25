@@ -133,9 +133,6 @@ A modular, database-driven Discord application featuring dynamic state managemen
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavcodes25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   <br />
-  <a href="https://github.com/madhavcodes25">
-    <img src="https://github-readme-stats.vercel.app/api?username=madhavcodes25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
 </p>
 
 ---
