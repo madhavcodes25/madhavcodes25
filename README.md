@@ -104,17 +104,19 @@ A high-performance in-memory key-value storage engine built from scratch with cu
 
 ### 🏏 [IPL Moneyball: Mathematical Team Optimization](https://github.com/madhavcodes25/IPL-Moneyball)
 A data-driven decision support tool that acts as an analytical Head Coach to draft the ultimate playing XI using constrained knapsack problem solving.
-* **Tech Stack:** Python, PuLP, Streamlit, Pandas, Plotly
+* **Tech Stack:** Python, Pandas, PuLP, Plotly, Streamlit
 * **Key Highlights:**
-  * Engineered a linear programming model to solve a constrained knapsack problem, maximizing team fantasy points based on 2025 player stats.
-  * Built an interactive Streamlit and Plotly dashboard for dynamic budget tracking and role-based squad constraint enforcement.
+  * Engineered a Binary Integer Linear Programming (ILP) model using **PuLP** to optimize an 11-player IPL squad under strict budget, overseas, role, and **phase specialist constraints**, integrating latest **IPL 2026 auction prices**.
+  * Processed **87,600+ ball-by-ball deliveries** (IPL 2022–2026) using **Pandas** to construct recency-weighted **Phase Specialist Scores** (Powerplay, Middle, Death) and a Pareto-optimal efficient frontier for identifying undervalued players.
+  * Deployed a multi-tab decision-support dashboard using **Streamlit** and **Plotly**, backed by a 55-test **pytest** suite to ensure solver accuracy and constraint validation.
 
-### 🤖 [Zenith: Multi-Purpose AI Discord Bot](https://github.com/madhavcodes25/ZenithBot)
+### 🤖 [Zenith AI Discord Bot](https://github.com/madhavcodes25/ZenithBot)
 A modular, database-driven Discord application featuring dynamic state management and integrated natural language AI.
 * **Tech Stack:** Node.js, Discord.js v14, Gemini API, MongoDB Atlas
 * **Key Highlights:**
-  * Built a persistent RPG economy system (inventory, jobs, gambling) utilizing MongoDB Atlas and Mongoose for dynamic state persistence.
-  * Integrated asynchronous REST APIs, including Google's Gemini AI for natural language processing and PokéAPI for live data fetching.
+  * Engineered a **custom modular command handler** using **Node.js** and **discord.js v14** that dynamically validates and registers commands to ensure crash-free execution.
+  * Built a persistent RPG economy system (inventory, jobs, gambling) utilizing **MongoDB Atlas** and **Mongoose** for dynamic user state management.
+  * Integrated multiple asynchronous APIs, including **Google’s Gemini API** for natural language processing, **PokéAPI** for live data, and **Canvas** for dynamic image manipulation.
   
 ---
 
@@ -155,6 +157,8 @@ A modular, database-driven Discord application featuring dynamic state managemen
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MadhavDaluka/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.daluka25@gmail.com)
 </div>
-
+<div align="center">
+  <i>"Simplicity is prerequisite for reliability."</i> — <b>Edsger W. Dijkstra</b>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
