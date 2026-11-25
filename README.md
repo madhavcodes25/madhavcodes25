@@ -20,6 +20,7 @@ class MadhavDaluka {
     "🏆 GirlScript Summer of Code 2026 (Top 50 Contributor)",
     "⚔️ LeetCode Knight (Max Rating 1923)",
     "🥇 Finalist at UNCHARTED Hackathon (SVNIT x MongoDB)",
+    "🏅 Top 25 at Cyber Hackathon 2026 (C-DAC Patna & CCSU Bihar Police)",
     "🎯 Finalist at MetaCode (IIT Kharagpur)",
     "🏅 Rank 5 at ACM Summer Challenge (SVNIT)"
   ]
